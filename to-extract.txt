@@ -1,0 +1,9 @@
+scripts/items/items_game.txt
+scripts/npc/activelist.txt
+scripts/npc/items.txt
+scripts/npc/npc_abilities.txt
+scripts/npc/npc_heroes.txt
+scripts/npc/npc_units.txt
+scripts/shop_tags.txt
+scripts/shops.txt
+scripts/tournaments/*
